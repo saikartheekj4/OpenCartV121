@@ -1,0 +1,50 @@
+13:35:05.722 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on Register Link*************
+13:35:06.799 [main] INFO  testCases.TC_01_MyAccount - ********Providing the Customer Details*************
+13:35:09.139 [main] INFO  testCases.TC_01_MyAccount - ********Validating expected message*************
+13:35:09.143 [main] INFO  testCases.TC_01_MyAccount - ********Finished Execution*************
+13:35:09.375 [main] INFO  testCases.TC_02_LoginPage - OS: Windows | Browser: chrome
+13:35:11.059 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_LoginPage*****************
+13:35:37.894 [main] INFO  testCases.TC_01_MyAccount - OS: Windows | Browser: chrome
+13:35:40.025 [main] INFO  testCases.TC_01_MyAccount - ********Staring TC_01_MyAccount*************
+13:35:40.060 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on My Account*************
+13:35:40.161 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on Register Link*************
+13:35:40.518 [main] INFO  testCases.TC_01_MyAccount - ********Providing the Customer Details*************
+13:35:42.435 [main] INFO  testCases.TC_01_MyAccount - ********Validating expected message*************
+13:35:42.440 [main] INFO  testCases.TC_01_MyAccount - ********Finished Execution*************
+13:35:42.652 [main] INFO  testCases.TC_02_LoginPage - OS: Windows | Browser: chrome
+13:35:44.275 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_LoginPage*****************
+13:35:46.115 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_Finished Execution*****************
+13:36:04.997 [main] INFO  testCases.TC_01_MyAccount - OS: Windows | Browser: chrome
+13:36:07.162 [main] INFO  testCases.TC_01_MyAccount - ********Staring TC_01_MyAccount*************
+13:36:07.202 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on My Account*************
+13:36:07.309 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on Register Link*************
+13:36:07.662 [main] INFO  testCases.TC_01_MyAccount - ********Providing the Customer Details*************
+13:36:09.384 [main] INFO  testCases.TC_01_MyAccount - ********Validating expected message*************
+13:36:09.391 [main] INFO  testCases.TC_01_MyAccount - ********Finished Execution*************
+13:36:09.589 [main] INFO  testCases.TC_02_LoginPage - OS: Windows | Browser: chrome
+13:36:11.306 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_LoginPage*****************
+13:36:13.138 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_Finished Execution*****************
+13:53:27.906 [main] INFO  testCases.TC_01_MyAccount - OS: Windows | Browser: chrome
+13:53:30.009 [main] INFO  testCases.TC_01_MyAccount - ********Staring TC_01_MyAccount*************
+13:53:30.048 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on My Account*************
+13:53:30.140 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on Register Link*************
+13:53:30.461 [main] INFO  testCases.TC_01_MyAccount - ********Providing the Customer Details*************
+13:53:32.411 [main] INFO  testCases.TC_01_MyAccount - ********Validating expected message*************
+13:53:32.416 [main] INFO  testCases.TC_01_MyAccount - ********Finished Execution*************
+13:53:32.610 [main] INFO  testCases.TC_02_LoginPage - OS: Windows | Browser: chrome
+13:53:34.121 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_LoginPage*****************
+13:53:36.084 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_Finished Execution*****************
+13:54:06.621 [main] INFO  testCases.TC_01_MyAccount - OS: Windows | Browser: chrome
+13:54:08.599 [main] INFO  testCases.TC_01_MyAccount - ********Staring TC_01_MyAccount*************
+13:54:08.647 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on My Account*************
+13:54:08.762 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on Register Link*************
+13:54:09.080 [main] INFO  testCases.TC_01_MyAccount - ********Providing the Customer Details*************
+13:54:10.585 [main] INFO  testCases.TC_01_MyAccount - ********Validating expected message*************
+13:54:10.591 [main] INFO  testCases.TC_01_MyAccount - ********Finished Execution*************
+13:54:10.792 [main] INFO  testCases.TC_02_LoginPage - OS: Windows | Browser: chrome
+13:54:12.440 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_LoginPage*****************
+13:54:14.251 [main] INFO  testCases.TC_02_LoginPage - ***************Starting TC_02_Finished Execution*****************
+13:54:42.465 [main] INFO  testCases.TC_01_MyAccount - OS: Windows | Browser: chrome
+13:54:44.505 [main] INFO  testCases.TC_01_MyAccount - ********Staring TC_01_MyAccount*************
+13:54:44.543 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on My Account*************
+13:54:44.659 [main] INFO  testCases.TC_01_MyAccount - ********Clicking on Register Link*************
